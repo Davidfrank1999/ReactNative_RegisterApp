@@ -13,9 +13,9 @@ Data Storage: AsyncStorage
 
 ## Display
 
-<img src="assets\RegistrationApp_Register.jpg"  width=200 alt="Register Screen" heigh=auto >
-<img src="assets\RegistrationApp_Login.jpg"  width=200 alt="Login Screen" heigh=auto >
-<img src="assets\RegistrationApp_Dashboard.jpg"  width=200 alt="Dashboard" heigh=auto >
+<img src="assets\RegistrationApp_Register.jpg"  width=200 alt="Register Screen" heigh=auto >  <img src="assets\RegistrationApp_Login.jpg"  width=200 alt="Login Screen" heigh=auto >  <img src="assets\RegistrationApp_Dashboard.jpg"  width=200 alt="Dashboard" heigh=auto >
+
+
 
 
 ## Vedio Tutorial
